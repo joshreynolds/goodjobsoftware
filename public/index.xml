@@ -38,7 +38,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;operating-systems&#34;&gt;Operating Systems&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt; — Gentoo, Ubuntu, Fedora, Slackware&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt; — Gentoo, Ubuntu, Fedora, Red Hat, Slackware&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BSD&lt;/strong&gt; — FreeBSD, OpenBSD&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Windows&lt;/strong&gt; — Windows 3.11 through modern — including server environments&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;macOS&lt;/strong&gt; — development and administration&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;DOS 6.22&lt;/strong&gt; — yes, really&lt;/li&gt;

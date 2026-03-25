@@ -30,7 +30,8 @@ A career spanning the early days of the internet to the age of AI — from DOS 6
 
 ## Operating Systems
 
-- **Linux** — Gentoo, Ubuntu, Fedora, Slackware
+- **Linux** — Gentoo, Ubuntu, Fedora, Red Hat, Slackware
+- **BSD** — FreeBSD, OpenBSD
 - **Windows** — Windows 3.11 through modern — including server environments
 - **macOS** — development and administration
 - **DOS 6.22** — yes, really
