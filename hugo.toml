@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Josh Reynolds'
 theme = 'PaperMod'
 
+[services.googleAnalytics]
+  ID = "G-WMD04PCS93"
+
 [params]
   favicon = "/favicon.svg"
 
@@ -30,6 +33,11 @@ theme = 'PaperMod'
   name = "Proficiencies"
   url = "/proficiencies"
   weight = 20
+
+[[menus.main]]
+  name = "Blog"
+  url = "/posts"
+  weight = 30
 
 [params.label]
   text = "Josh Reynolds"
