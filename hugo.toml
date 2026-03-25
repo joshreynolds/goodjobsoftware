@@ -1,6 +1,6 @@
 baseURL = 'https://www.goodjobsoftware.ca/'
 languageCode = 'en-us'
-title = 'Josh Reynolds — Engineering Leader & Systems Thinker, Since the Turbo Button'
+title = 'Josh Reynolds'
 theme = 'PaperMod'
 
 [params]
