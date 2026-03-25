@@ -1,6 +1,6 @@
 baseURL = 'https://www.goodjobsoftware.ca/'
 languageCode = 'en-us'
-title = 'Josh Reynolds'
+title = 'Josh Reynolds — Engineering Leader & Systems Thinker, Since the Turbo Button'
 theme = 'PaperMod'
 
 [params]
@@ -9,7 +9,7 @@ theme = 'PaperMod'
 [params.profileMode]
   enabled = true
   title = "Josh Reynolds"
-  subtitle = "Building teams and technology that matter"
+  subtitle = "Engineering Leader & Systems Thinker, Since the Turbo Button"
   imageUrl = "/avatar.svg"
   imageTitle = "Josh Reynolds"
 
@@ -32,6 +32,6 @@ theme = 'PaperMod'
   weight = 20
 
 [params.label]
-  text = "Josh Reynolds - Technology Leader, Innovator"
+  text = "Josh Reynolds"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
