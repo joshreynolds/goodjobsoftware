@@ -1,0 +1,37 @@
+baseURL = 'https://goodjobsoftware.ca/'
+languageCode = 'en-us'
+title = 'Josh Reynolds'
+theme = 'PaperMod'
+
+[params]
+  favicon = "/favicon.svg"
+
+[params.profileMode]
+  enabled = true
+  title = "Josh Reynolds"
+  subtitle = "Building teams and technology that matter"
+  imageUrl = "/avatar.svg"
+  imageTitle = "Josh Reynolds"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:josh.j.reynolds@gmail.com"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/joshjreynolds/"
+
+[[menus.main]]
+  name = "About"
+  url = "/about"
+  weight = 10
+
+[[menus.main]]
+  name = "Proficiencies"
+  url = "/proficiencies"
+  weight = 20
+
+[params.label]
+  text = "Josh Reynolds - Technology Leader, Innovator"
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35

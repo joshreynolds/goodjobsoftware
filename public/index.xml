@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Josh Reynolds</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Josh Reynolds</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2026 13:18:15 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proficiencies</title>
+      <link>http://localhost:1313/proficiencies/</link>
+      <pubDate>Wed, 25 Mar 2026 13:18:15 -0400</pubDate>
+      <guid>http://localhost:1313/proficiencies/</guid>
+      <description>&lt;p&gt;A career spanning the early days of the internet to the age of AI — from DOS 6.22 and Windows 3.11 to large language models and cloud-native architecture.&lt;/p&gt;
+&lt;h2 id=&#34;languages--frameworks&#34;&gt;Languages &amp;amp; Frameworks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Go&lt;/strong&gt; — systems-level services and APIs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; — enterprise applications with Spring and Hibernate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ruby on Rails&lt;/strong&gt; — rapid product development&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt; — broad experience across the ecosystem including jQuery and most modern frameworks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cloud--infrastructure&#34;&gt;Cloud &amp;amp; Infrastructure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Cloud Platform&lt;/strong&gt; — production workloads, managed services&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AWS&lt;/strong&gt; — broad service experience across compute, storage, and networking&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bare Metal&lt;/strong&gt; — hardware provisioning, OS-level configuration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Low-Level Networking&lt;/strong&gt; — TCP/IP, routing, switching, protocol internals&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High Availability &amp;amp; Horizontal Scaling&lt;/strong&gt; — distributed systems design, load balancing, failover strategies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance Analysis&lt;/strong&gt; — profiling, bottleneck identification, capacity planning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email Deliverability&lt;/strong&gt; — SPF, DKIM, DMARC, reputation management, deliverability tooling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;databases&#34;&gt;Databases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MySQL&lt;/strong&gt; — relational schema design, query optimization, replication&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PostgreSQL&lt;/strong&gt; — advanced features, performance tuning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;operating-systems&#34;&gt;Operating Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Linux&lt;/strong&gt; — Gentoo, Ubuntu, Fedora, Slackware&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows&lt;/strong&gt; — Windows 3.11 through modern — including server environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;macOS&lt;/strong&gt; — development and administration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOS 6.22&lt;/strong&gt; — yes, really&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;devops--tooling&#34;&gt;DevOps &amp;amp; Tooling&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; — continuous integration and deployment pipeline design and operations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Git, GitHub, GitLab&lt;/strong&gt; — version control, code review workflows, repository management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jira&lt;/strong&gt; — project tracking, sprint management, backlog grooming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ai--emerging-technology&#34;&gt;AI &amp;amp; Emerging Technology&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Local LLMs&lt;/strong&gt; — running and fine-tuning models on local infrastructure&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LLM Workflows&lt;/strong&gt; — prompt engineering, retrieval-augmented generation, AI-assisted development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;leadership--process&#34;&gt;Leadership &amp;amp; Process&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Technical Hiring &amp;amp; Team Building&lt;/strong&gt; — full-cycle recruiting, interview design, onboarding, culture&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SDLC Process Building&lt;/strong&gt; — designing and implementing development lifecycles from scratch&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scrum &amp;amp; Agile&lt;/strong&gt; — sprint planning, retrospectives, velocity tracking&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Waterfall&lt;/strong&gt; — structured project delivery for regulated or fixed-scope environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Legacy Code&lt;/strong&gt; — modernization strategies, risk management, incremental refactoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding--compliance&#34;&gt;Funding &amp;amp; Compliance&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SR&amp;amp;ED&lt;/strong&gt; — Scientific Research and Experimental Development tax credit preparation and documentation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IRAP&lt;/strong&gt; — NRC Industrial Research Assistance Program project scoping and reporting&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 25 Mar 2026 13:11:24 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a technology leader with a lifelong passion for building things. It started when my dad brought home an IBM 386 — I was seven years old, and I&amp;rsquo;ve been hooked ever since. What began as curiosity about how computers work grew into a career spanning the full arc of the modern internet.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Over the past few decades I&amp;rsquo;ve worked across startups, mid-size companies, and large organizations, wearing nearly every hat along the way — developer, architect, team lead, and executive. I&amp;rsquo;m currently CTO at a sport ticketing platform, where I oversee the technology strategy, engineering team, and product infrastructure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
