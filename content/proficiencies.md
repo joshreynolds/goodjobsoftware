@@ -2,6 +2,7 @@
 date = '2026-03-25T13:18:15-04:00'
 draft = false
 title = 'Proficiencies'
+hidemeta = true
 +++
 
 A career spanning the early days of the internet to the age of AI — from DOS 6.22 and Windows 3.11 to large language models and cloud-native architecture.

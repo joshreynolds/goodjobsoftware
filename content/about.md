@@ -2,6 +2,7 @@
 date = '2026-03-25T13:11:24-04:00'
 draft = false
 title = 'About'
+hidemeta = true
 +++
 
 I'm a technology leader with a lifelong passion for building things. It started when my dad brought home an IBM 386 — I was seven years old, and I've been hooked ever since. What began as curiosity about how computers work grew into a career spanning the full arc of the modern internet.
