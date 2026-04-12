@@ -5,6 +5,8 @@ title = 'About'
 hidemeta = true
 +++
 
+![About header](/images/about_header.webp)
+
 I'm a technology leader with a lifelong passion for building things. It started when my dad brought home an IBM 386 — I was seven years old, and I've been hooked ever since. What began as curiosity about how computers work grew into a career spanning the full arc of the modern internet.
 
 ## Background

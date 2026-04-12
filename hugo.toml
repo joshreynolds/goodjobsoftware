@@ -12,9 +12,11 @@ theme = 'PaperMod'
 [params.profileMode]
   enabled = true
   title = "Josh Reynolds"
-  subtitle = "Engineering Leader & Systems Thinker, Since the Turbo Button"
-  imageUrl = "/avatar.svg"
+  subtitle = "Engineering Leader & Systems Thinker"
+  imageUrl = "/images/profile.webp"
   imageTitle = "Josh Reynolds"
+  imageWidth = 400
+  imageHeight = 400
 
 [[params.socialIcons]]
   name = "email"
@@ -34,10 +36,6 @@ theme = 'PaperMod'
   url = "/proficiencies"
   weight = 20
 
-[[menus.main]]
-  name = "Blog"
-  url = "/posts"
-  weight = 30
 
 [params.label]
   text = "Josh Reynolds"
