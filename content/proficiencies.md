@@ -7,6 +7,14 @@ hidemeta = true
 
 A career spanning the early days of the internet to the age of AI — from DOS 6.22 and Windows 3.11 to large language models and cloud-native architecture.
 
+## Leadership & Process
+
+- **Technical Hiring & Team Building** — full-cycle recruiting, interview design, onboarding, culture
+- **SDLC Process Building** — designing and implementing development lifecycles from scratch
+- **Scrum & Agile** — sprint planning, retrospectives, velocity tracking
+- **Waterfall** — structured project delivery for regulated or fixed-scope environments
+- **Legacy Code** — modernization strategies, risk management, incremental refactoring
+
 ## Languages & Frameworks
 
 - **Go** — systems-level services and APIs
@@ -47,14 +55,6 @@ A career spanning the early days of the internet to the age of AI — from DOS 6
 
 - **Local LLMs** — running and fine-tuning models on local infrastructure
 - **LLM Workflows** — prompt engineering, retrieval-augmented generation, AI-assisted development
-
-## Leadership & Process
-
-- **Technical Hiring & Team Building** — full-cycle recruiting, interview design, onboarding, culture
-- **SDLC Process Building** — designing and implementing development lifecycles from scratch
-- **Scrum & Agile** — sprint planning, retrospectives, velocity tracking
-- **Waterfall** — structured project delivery for regulated or fixed-scope environments
-- **Legacy Code** — modernization strategies, risk management, incremental refactoring
 
 ## Funding & Compliance
 
